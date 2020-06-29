@@ -1,0 +1,173 @@
+body{
+     font-family: Arial, Helvetica, sans-serif;
+     background-color: #c0dda2;
+}
+
+.nav ul{
+    display: inline-flex;
+    margin: 50px;
+    font-size: 18px;
+  
+
+}.nav ul li{
+    list-style: none;
+    margin: 0 20px;
+    cursor: pointer;
+}
+.logo img{
+    width: 20px;
+    margin-top: -7px;
+    margin-right: 20px;
+
+}
+h2 {
+    
+    padding-left: 40px;
+    margin-right: 70%;
+}
+#success img {
+    width: 90px;
+    margin-top: 10 px;
+    margin-right: 48px;
+}
+.nav ul li a {
+    text-decoration: none;
+    color: #455e14;
+}
+.footer { 
+    padding: 30px;
+    border: 3px;
+    width: 100%;
+    background-color: #7A9B57;
+    color:white;
+    text-align: center;
+}
+.forms {
+    position: absolute;
+    border: 10px solid green;
+    margin-left:800px;
+    margin-right: 50px;
+    background-color: #e5eeda;
+
+}
+#div1{
+    border: 2px solid  greenyellow  ;
+    margin-right: 20px;
+}
+#divmenu {
+    background-color: #e5eeda;
+    border-radius: 10px 50px;
+    padding-bottom: 25px;
+    height: 80px;
+    margin-top: 40px;
+}
+
+.whoweare {
+
+    margin-right: 700px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 25px;
+    padding: 20px;
+    background-color: #e5eeda;
+}
+.stories{
+    margin-right: 700px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 25px;
+    padding: 20px;
+    background-color: #e5eeda;
+}
+.services{
+    margin-right: 700px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 25px;
+    padding: 20px;
+    background-color: #e5eeda;
+    
+
+}
+.info{
+    padding: 40px;
+    background-image: url("tomato.jpeg");
+    margin: 20px;
+    background-size: 600px;
+    color: #e5eeda;
+
+}
+.farmerspics{
+    position: absolute;
+    width: 650px;
+    top: 350px;
+    margin-left: 670px;
+    margin-bottom: 90px;
+
+}
+.products {
+    border: #455e14 solid 7px;
+    margin-left: 25px;
+    margin-right: 25px;
+
+}
+.agroinputs{
+
+    border: #455e14 solid 7px;
+    margin-left: 25px;
+    margin-right: 25px;
+
+}
+
+#onions, #greenpaper, #cabbage,#beans, #cassavatubers, #maizegrains, #bananabunch{
+    width: 250px;
+    margin: 20px;
+    display: inline-flex;
+
+}
+#weedmaster , #mancozeb, #cabbageseeds, #tomatoseeds, #treadlepump, #piglets, #wateringcan{
+    width: 250px;
+    margin: 20px;
+
+
+
+}
+#greenpaper {
+    float: left;
+    margin-left: 400px;
+    margin-bottom: 100px;
+    margin-top: 10px;
+    display: inline;
+}
+
+#cabbage{
+    marg
+    
+
+}
+#reasonstoregister {
+  border: 3px solid #73AD21;
+  padding: 10px;
+  margin-top: 20px;
+  margin-bottom: 600px;
+  margin-left:60px;
+  margin-right: 600px;
+  background-color: #e5eeda;
+}
+
+.about-us{
+    border: 3px solid #73AD21 ;
+    margin-right: 500px;
+    margin-top: 80px;
+    margin-bottom: 40px;
+    padding: 20px ;
+    margin-left: 50px;
+    background-color: #e5eeda;
+
+}
+.signup{
+    margin: 20px;
+    margin-left: 700px;
+    border: 3px solid #73AD21 ;
+    padding: 20px;
+}
