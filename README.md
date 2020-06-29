@@ -1,2 +1,2 @@
 # my-firstwebsite
-A required projecr for amarahub
+A required project for amarahub
